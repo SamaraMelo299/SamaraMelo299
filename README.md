@@ -28,7 +28,7 @@ Currently focused on improving my skills in backend architecture, clean code, AP
 
 - ☕ Backend development with **Java & Spring Boot**
 - 🌐 REST API development
-- 💻 Frontend fundamentals (HTML, CSS, JavaScript, TypeScript, React básico)
+- 💻 Frontend fundamentals (HTML, CSS, JavaScript, TypeScript, React)
 - 🐍 Automation scripts with Python
 - 🖥️ IT infrastructure & technical support experience
 - 🔧 Troubleshooting systems and process improvement
