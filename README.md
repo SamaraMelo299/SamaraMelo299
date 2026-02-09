@@ -1,4 +1,4 @@
-# Hi 👋, I'm Samara Melo ツ
+# Hi, I'm Samara Melo ツ
 
 🚀 **Full Stack Developer Jr. | Java & Spring Boot Focus**  
 🇧🇷 Brazil
