@@ -1,17 +1,17 @@
 # Hi, I'm Samara Melo ツ
 
-🚀 **Full Stack Developer Jr. | Java & Spring Boot Focus**  
+🚀 **Full Stack Developer Jr. | JavaScript, Node.js, React & APIs**  
 🇧🇷 Brazil
 
-I’m transitioning from IT support into software development, building web applications, REST APIs, and backend solutions with Java while expanding my full stack skills.
+I build web applications, REST APIs, and full stack solutions with **JavaScript**, combining responsive interfaces, backend logic, and practical problem-solving.
 
-My background in technical support, infrastructure, troubleshooting, and automation gives me a strong systems perspective, helping me develop more practical and reliable software solutions.
+My background in technical support strengthened my ability to troubleshoot, understand systems, and work with real user needs — skills that now help me create software with more clarity, organization, and reliability.
 
-Currently focused on improving my skills in backend architecture, clean code, APIs, and modern web development.
+Currently, I’m focused on deepening my knowledge in **Node.js**, **API integrations**, **databases**, and modern frontend development with **React**, while continuously building projects and improving my portfolio.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Connect with me
 
 <p align="left">
   <a href="https://github.com/SamaraMelo299">
@@ -24,69 +24,76 @@ Currently focused on improving my skills in backend architecture, clean code, AP
 
 ---
 
-## 🧠 What I Do
+## 🧠 About Me
 
-- ☕ Backend development with **Java & Spring Boot**
-- 🌐 REST API development
-- 💻 Frontend fundamentals (HTML, CSS, JavaScript, TypeScript, React)
-- 🐍 Automation scripts with Python
-- 🖥️ IT infrastructure & technical support experience
-- 🔧 Troubleshooting systems and process improvement
-- 📚 Continuous learning in software engineering
+- ⚡ Full Stack Developer Jr. focused on **JavaScript**
+- 🌐 Build REST APIs with **Node.js** and **Express**
+- ⚛️ Create responsive interfaces with **React**, **HTML**, and **CSS**
+- 🗄️ Work with **MongoDB** and **SQL**
+- 🔌 Interested in **API integrations**, backend structure, and real-world applications
+- 🖥️ Technical support background applied to problem-solving and systems understanding
+- 📚 Constantly improving through projects, study, and hands-on practice
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
 
 ### Frontend
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-### Tools & Environment
-
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## 📊 Currently Learning
+## 📈 Currently Improving
 
-- Advanced Spring Boot
-- Software architecture fundamentals
-- Clean code & design patterns
-- Full stack best practices
-
----
-
-## 🚀 Career Focus
-
-🎯 Full Stack Developer Jr (Java Focus)  
-🎯 Backend Java Developer Jr  
-🎯 First professional opportunity in software development  
+- Advanced **Node.js**
+- **API integrations** and backend architecture
+- Best practices with **React**
+- Clean code and scalable project structure
+- Full stack application development
 
 ---
 
-## 💡 Philosophy
+## 🎯 Career Goals
 
-> _"Technology is not just about code — it's about solving real problems,  
-learning continuously, and building solutions that create impact."_
+- Full Stack Developer Jr
+- Backend Developer Jr with **Node.js**
+- Opportunities focused on **JavaScript**, **APIs**, and web development
 
 ---
 
-⭐ Always open to collaborations, learning opportunities, and tech projects.
+## 💡 Professional Profile
+
+I’m currently studying **Systems Analysis and Development** and building my path in software development through practical projects, portfolio development, and continuous learning.
+
+I’m especially interested in creating applications that combine **good user experience**, **organized backend logic**, and **real functionality**. My goal is to grow consistently as a developer and contribute with dedication, curiosity, and clear thinking.
+
+---
+
+## 💭 Philosophy
+
+> _"Technology is not just about code — it's about solving real problems, learning continuously, and building solutions that create impact."_
+
+---
+
+⭐ Open to opportunities, collaborations, and new challenges in technology.
 
 ## 🐍 Contribution Snake
 
